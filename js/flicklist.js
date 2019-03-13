@@ -2,8 +2,7 @@
 
 var api = {
 	root: "https://api.themoviedb.org/3",
-	token: "" // TODO put your api key here
-}
+	token: "c5988f11a33dbd274147a24488217a81"}
 
 /**
  * Makes an AJAX request to themoviedb.org, asking for some movies
